@@ -1,0 +1,18 @@
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.profile-container .details {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.profile-container .image {
+    margin-right: 20px;
+}
+
+.profile-container img {
+    max-width: 300px;
+    height: auto;
+}
